@@ -5,6 +5,7 @@ Action templates for GitHub.
 ## Actions
 
 - [deploy-gh-page](./deploy-gh-page.yml)
+- [deploy-server](./deploy-server.yml)
 
 ## License
 
