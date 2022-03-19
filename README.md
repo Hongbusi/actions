@@ -1,10 +1,11 @@
-# action-template
+# actions
 
-Action templates for GitHub.
+Actions for GitHub.
 
 ## Actions
 
-- [deploy-gh-page](./deploy-gh-page.yml)
+- [deploy-gh-page-by-yarn](./deploy-gh-page-by-yarn.yml)
+- [deploy-gh-page-by-pnpm](./deploy-gh-page-by-pnpm.yml)
 - [deploy-server](./deploy-server.yml)
 
 ## License
